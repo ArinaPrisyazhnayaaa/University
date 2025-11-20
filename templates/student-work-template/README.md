@@ -2,11 +2,11 @@
 
 ## Структура папки студента
 
-## student-lastname-firstname/
-## ├── report.md
-## ├── code/ (если есть код)
-## ├── data/ (если есть данные)
-## └── README.md (описание работы)
+# student-lastname-firstname/
+# ├── report.md
+# ├── code/ (если есть код)
+# ├── data/ (если есть данные)
+# └── README.md (описание работы)
 
 
 ## Правила именования
