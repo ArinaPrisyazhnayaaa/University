@@ -8,3 +8,20 @@
 - Онтология и моделирование бизнес-процессов
 
 ## Структура
+University/
+courses/ # Учебные курсы
+templates/ # Шаблоны для работ
+docs/ # Документация
+README.md # Этот файл
+
+
+## Быстрый старт для студентов
+
+1. **Клонируйте репозиторий:**
+   ```bash
+   git clone https://github.com/your-username/University.git
+2. Найдите свой курс в папке courses/
+3. Создайте папку с вашим именем в папке задания:
+  Формат: lastname-firstname
+  Пример: courses/ai-business-models/assignments/assignment-1/ivanov-ivan/
+4. Разместите свою работу в созданной папке
